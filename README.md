@@ -1,5 +1,3 @@
-# Learn Fetch API in one Video 
-# Complete Fetch API Tutorial:- https://youtu.be/a8tsXX6nvw4
 # Topics Covered:-
 <ul>
   <li>Fetch API Theory</li>
